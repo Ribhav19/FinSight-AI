@@ -1,183 +1,97 @@
 # FinVision AI
 
-<p align="center">
-  <img src="assets/hero.png" alt="FinVision AI Banner"/>
-</p>
+> **Proprietary AI Venture · Launching Soon**
 
-<p align="center">
-AI-powered financial intelligence platform combining financial analysis, LegalBERT compliance intelligence, forecasting, RAG pipelines, and conversational AI for enterprise-grade balance sheet assessment.
-</p>
+AI-powered financial intelligence platform combining FinBERT, LegalBERT, RAG pipelines, forecasting, risk analysis, and conversational financial advisory — built for enterprise-grade balance sheet assessment.
 
 ---
 
-# Overview
+## What It Does
 
-FinVision AI is an intelligent financial analysis and risk intelligence platform designed to transform raw balance sheets into boardroom-ready strategic insights.
+FinVision AI transforms raw financial documents into boardroom-ready strategic intelligence. It doesn't just read numbers — it reasons about them, flags risks, benchmarks performance, checks legal compliance, and delivers actionable recommendations through a conversational interface.
 
-The platform combines:
-- Financial intelligence
-- Risk scoring
-- Legal intelligence
-- Forecasting
-- SWOT generation
-- Conversational AI
-- RAG-based financial advisory systems
-
-Built with:
-- FinBERT
-- LegalBERT
-- Reinforcement learning workflows
-- Retrieval-Augmented Generation (RAG)
-- Deep financial analytics pipelines
+Built for CFOs, investors, and financial analysts who need deep AI-powered insight, not just dashboards.
 
 ---
 
-# Core Features
+## Core Capabilities
 
-- Financial statement intelligence
-- AI-generated risk reports
-- Legal compliance analysis
-- EBITDA & ratio benchmarking
-- AI forecasting engine
-- Conversational financial advisor
-- SWOT intelligence generation
-- PDF report exporting
+- Financial statement intelligence and ratio analysis
+- Multi-dimensional risk scoring engine
+- Legal compliance intelligence (Indian regulatory frameworks)
+- EBITDA benchmarking and forecasting
+- AI-generated SWOT reports
+- Conversational financial advisor (RAG-powered)
+- PDF report generation
 - Financial health scoring
-- Risk dimension analysis
-- RAG-powered financial assistant
 
 ---
 
-# Platform Showcase
+## Architecture
 
-## Financial Intelligence Engine
+FinVision AI is built as a multi-layer intelligence system:
 
-<img src="assets/analysis-dashboard.png" alt="Analysis Dashboard"/>
-
----
-
-## Financial Metrics & Risk Scoring
-
-<img src="assets/financial-metrics.png" alt="Financial Metrics"/>
-
----
-
-## AI Financial Advisor
-
-<img src="assets/ai-advisor.png" alt="AI Advisor"/>
-
----
-
-## Risk Intelligence & Forecasting
-
-<img src="assets/risk-intelligence.png" alt="Risk Intelligence"/>
-
----
-
-## Platform Capabilities
-
-<img src="assets/features.png" alt="Features"/>
-
----
-
-# Architecture
-
-FinVision AI combines multiple intelligence layers:
-
-- Financial Intelligence Layer
-- Legal Intelligence Layer
-- Forecasting Engine
-- Retrieval-Augmented Generation
-- Conversational Advisory System
-- Risk Scoring Pipeline
-- Strategic Recommendation Engine
-
----
-
-# Technology Stack
-
-## Frontend
-- React.js
-- TailwindCSS
-- Framer Motion
-- Recharts
-
-## Backend
-- Python
-- FastAPI
-- Flask
-- Gradio
-
-## AI & ML
-- PyTorch
-- Transformers
-- FinBERT
-- LegalBERT
-- Reinforcement Learning Pipelines
-- RAG Architecture
-
-## Data Processing
-- Pandas
-- NumPy
-- Scikit-learn
-
----
-
-# Example Capabilities
-
-- EBITDA analysis
-- Financial health scoring
-- Revenue forecasting
-- Legal compliance scanning
-- Risk benchmarking
-- Operational weakness detection
-- Strategic recommendations
-- Conversational financial querying
-
----
-
-# Repository Structure
-
-```bash
-FinVision-AI/
-│
-├── README.md
-├── LICENSE
-├── requirements.txt
-├── .gitignore
-│
-├── assets/
-├── docs/
+```
+Input Layer          →  Financial documents, balance sheets, filings
+Financial Layer      →  FinBERT-powered ratio and statement analysis
+Legal Layer          →  LegalBERT compliance and regulatory scanning
+Forecasting Layer    →  LSTM-based trend prediction and risk projection
+RAG Layer            →  Retrieval-Augmented Generation for advisory context
+Advisory Layer       →  Conversational AI financial advisor
+Output Layer         →  Risk scores, reports, SWOT, recommendations
 ```
 
 ---
 
-# Note
+## Technology Stack
 
-This repository showcases:
-- interface systems
-- AI integration pipelines
-- financial intelligence workflows
-- architecture concepts
-- enterprise analysis systems
+**AI / ML**
+- PyTorch · Transformers · FinBERT · LegalBERT
+- Reinforcement Learning · RAG Architecture · LSTM
 
-Proprietary orchestration systems, production infrastructure, deployment pipelines, internal datasets, and advanced model training workflows are not publicly released.
+**Backend**
+- Python · FastAPI · Flask · Gradio
 
----
+**Frontend**
+- React.js · TailwindCSS · Recharts · Framer Motion
 
-# Future Roadmap
-
-- Real-time financial ingestion
-- Enterprise dashboarding
-- Multi-document intelligence
-- Automated compliance workflows
-- Institutional analytics
-- Investor intelligence systems
-- Advanced forecasting models
-- Multi-agent financial reasoning
+**Data**
+- Pandas · NumPy · Scikit-learn · Vector Databases
 
 ---
 
-# FinVision AI
+## Platform Preview
 
-AI-powered financial intelligence for modern enterprises.
+### Financial Intelligence Engine
+![Analysis Dashboard](assets/analysis-dashboard.png)
+
+### Financial Metrics & Risk Scoring
+![Financial Metrics](assets/financial-metrics.png)
+
+### AI Financial Advisor
+![AI Advisor](assets/ai-advisor.png)
+
+### Risk Intelligence & Forecasting
+![Risk Intelligence](assets/risk-intelligence.png)
+
+---
+
+## Proprietary Notice
+
+> This repository documents the system architecture, research methodology, platform design, and capability overview of FinVision AI.
+>
+> Core model weights, training infrastructure, production backend systems, internal datasets, and deployment pipelines are **proprietary and not publicly released** as this platform is under active development for commercial launch.
+>
+> For partnership or investment inquiries: **ribhavsoni19@gmail.com**
+
+---
+
+## Founder
+
+**Ribhav Soni** — ML Engineer · AI Researcher · Founder
+
+- 9.8/10 GPA, Pune Institute of Computer Technology
+- 4 international research publications
+- Barclays Hackathon winner
+
+[github.com/Ribhav19](https://github.com/Ribhav19) · ribhavsoni19@gmail.com
