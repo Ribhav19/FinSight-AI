@@ -2,6 +2,10 @@
 
 > **Proprietary AI Venture · Launching Soon**
 
+> <p align="center">
+  <img src="assets/hero.png" alt="FinVision AI Banner"/>
+</p>
+
 AI-powered financial intelligence platform combining FinBERT, LegalBERT, RAG pipelines, forecasting, risk analysis, and conversational financial advisory — built for enterprise-grade balance sheet assessment.
 
 ---
