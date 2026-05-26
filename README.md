@@ -148,11 +148,6 @@ FinVision-AI/
 │
 ├── assets/
 ├── docs/
-├── examples/
-├── frontend/
-├── backend/
-├── models/
-└── demo/
 ```
 
 ---
