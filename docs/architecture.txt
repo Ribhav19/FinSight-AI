@@ -1,0 +1,41 @@
+# FinVision AI Architecture
+
+## Core Pipeline
+
+1. Financial Document Upload
+2. Parsing & Extraction
+3. Financial Metric Computation
+4. Risk Intelligence Generation
+5. Legal Intelligence Analysis
+6. Forecasting Pipeline
+7. RAG-Based Advisory Layer
+8. PDF Report Export
+
+---
+
+## AI Systems
+
+### Financial Intelligence
+Powered using FinBERT pipelines and custom financial scoring systems.
+
+### Legal Intelligence
+LegalBERT-based compliance and governance analysis.
+
+### Conversational AI
+RAG-powered financial advisory assistant with contextual reasoning.
+
+### Forecasting
+Multi-scenario forecasting engine:
+- Bull case
+- Base case
+- Bear case
+
+---
+
+## Deployment Layers
+
+- Frontend UI Layer
+- API Layer
+- AI Inference Layer
+- Report Generation Layer
+- Storage Layer

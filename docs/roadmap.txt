@@ -1,0 +1,25 @@
+# FinVision AI Roadmap
+
+## Phase 1
+- Financial intelligence engine
+- Ratio computation
+- SWOT generation
+- Forecasting engine
+
+## Phase 2
+- Conversational advisor
+- Legal intelligence
+- PDF exports
+- Risk scoring
+
+## Phase 3
+- Enterprise integrations
+- Real-time ingestion
+- Investor intelligence
+- Multi-agent systems
+
+## Phase 4
+- Institutional deployment
+- AI copilots
+- Autonomous reporting
+- Advanced predictive systems

@@ -1,0 +1,30 @@
+# Dataset Information
+
+The system uses a combination of:
+- Open financial datasets
+- Public financial statements
+- Public company reports
+- Legal compliance datasets
+- Financial sentiment datasets
+
+---
+
+## Models
+
+### FinBERT
+Used for:
+- Financial sentiment analysis
+- Risk interpretation
+- Financial contextual understanding
+
+### LegalBERT
+Used for:
+- Compliance analysis
+- Legal risk detection
+- Governance observations
+
+---
+
+## Internal Processing
+
+Additional proprietary preprocessing and orchestration pipelines are not publicly released.
